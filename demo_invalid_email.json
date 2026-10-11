@@ -1,0 +1,18 @@
+{
+  "certificate_title": "Certificate of Participation",
+  "event_name": "AI Workshop 2026",
+  "organization_name": "ABC Organization",
+  "issue_date": "2026-10-08",
+  "recipients": [
+    {
+      "name": "Valid Recipient",
+      "email": "valid.recipient@example.com",
+      "course": "Artificial Intelligence"
+    },
+    {
+      "name": "Invalid Email Recipient",
+      "email": "not-a-valid-email-format",
+      "course": "Artificial Intelligence"
+    }
+  ]
+}

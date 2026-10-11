@@ -1,0 +1,33 @@
+{
+  "certificate_title": "Certificate of Excellence in Cloud Engineering",
+  "event_name": "DevOps & Cloud Native World 2026",
+  "organization_name": "Cloud Native Computing Alliance",
+  "issue_date": "2026-10-15",
+  "recipients": [
+    {
+      "name": "Sarah Connor",
+      "email": "sarah.connor@cyberdyne.org",
+      "course": "Kubernetes & Microservices Architecture"
+    },
+    {
+      "name": "John Doe",
+      "email": "john.doe@enterprise.com",
+      "course": "Site Reliability Engineering (SRE)"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane.smith@technet.org",
+      "course": "Cloud Security & Compliance"
+    },
+    {
+      "name": "Alan Turing",
+      "email": "alan.turing@cambridge.ac.uk",
+      "course": "Automated Deployment & Testing"
+    },
+    {
+      "name": "Ada Lovelace",
+      "email": "ada.lovelace@analytics.io",
+      "course": "Infrastructure as Code with Terraform"
+    }
+  ]
+}
